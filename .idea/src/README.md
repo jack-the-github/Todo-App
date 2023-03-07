@@ -9,3 +9,10 @@ It can do (version 1.0):
 3. You can tag the task as "done"
 4. Add the date till the deadline
 5. Add tags to the task with colour (sort tag)
+
+### Class
+
+1. ToDoList
+    - 
+2. ToDoTask
+    - 
